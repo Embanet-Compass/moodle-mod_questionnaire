@@ -1,10 +1,9 @@
 {
-    "name": "PoetOS/moodle-mod_questionnaire",
+    "name": "embanet-compass/moodle-mod_questionnaire",
     "type": "moodle-mod",
-    "require": {
-        "composer/installers": "~1.0"
-    },
+    "description": "Questionnaire Mod",
     "extra": {
-        "installer-name": "questionnaire"
+        "installer-name": "questionnaire",
+        "moodle": { "package_folder_name" : "questionnaire" }
     }
 }
