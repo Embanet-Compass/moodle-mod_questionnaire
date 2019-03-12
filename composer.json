@@ -1,5 +1,5 @@
 {
-    "name": "embanet-compass/moodle-mod-questionnaire",
+    "name": "embanet-compass/moodle-mod_questionnaire",
     "type": "moodle-mod",
     "description": "Questionnaire Mod",
     "extra": {
